@@ -1,6 +1,6 @@
 # Adding user bin directory to the path
 
-path+=/Users/tes023/bin
+path+=~/bin
 
 # Pretty-print of some PATH variables:
 alias path='echo -e ${PATH//:/\\n}'
